@@ -16,8 +16,8 @@ captures/
 output.json
 
 # IntelliJ
-*.iml
 .idea/
+*.iml
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Mac OS specific files
+.DS_Store
